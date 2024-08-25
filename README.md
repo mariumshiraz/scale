@@ -10,7 +10,7 @@ Welcome to the **pH Scale** project! This project provides an interactive and vi
 
 ## 🚀 Live Preview
 
-You can see a live preview of the project [here](#).
+You can see a live preview of the project [https://mariumshiraz.github.io/scale/](#).
 
 ## 🛠️ Getting Started
 
